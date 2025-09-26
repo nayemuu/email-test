@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="90" viewBox="0 0 320 90" fill="none">
+  <!-- Abstract hands forming a circle -->
+  <circle cx="45" cy="45" r="40" stroke="#43bfc7" stroke-width="6" fill="none"></circle>
+  <path d="M25 45 Q25 25 45 25" stroke="#43bfc7" stroke-width="6" fill="none" stroke-linecap="round"></path>
+  <path d="M65 45 Q65 65 45 65" stroke="#43bfc7" stroke-width="6" fill="none" stroke-linecap="round"></path>
+
+  <!-- Brand text -->
+  <text x="100" y="55" font-family="Poppins, Arial, sans-serif" font-size="36" font-weight="700" fill="#43bfc7">
+    care2share
+  </text>
+</svg>

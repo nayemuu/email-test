@@ -1,0 +1,27 @@
+/* pagination */
+
+.unselected-page {
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-weight: 400;
+  background-color: hsl(184, 54%, 52%, 0.1);
+  color: black;
+}
+.unselected-page:hover {
+  background-color: hsl(184, 54%, 52%, 0.3);
+}
+
+.active-page {
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-weight: 400;
+  background-color: hsl(184, 54%, 52%, 1);
+  color: #fff;
+}
+
+.active-page:hover {
+  background-color: hsl(184, 54%, 52%, 0.8);
+  color: #fff;
+}

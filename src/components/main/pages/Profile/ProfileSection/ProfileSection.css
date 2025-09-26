@@ -1,0 +1,6 @@
+.cover-photo-background {
+  background-image: url(../../../../../assets/pages/profile/backgroundOfCoverPhoto.png);
+  /* background-image: url(../../../../../assets/pages/profile/green-leaves.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
